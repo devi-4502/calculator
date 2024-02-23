@@ -1,0 +1,25 @@
+body{
+    background-image: url("download cal2.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    text-align: center;
+}    
+button{
+    height:45px;
+    width:45px;
+    border-radius: 45%;
+    background-color: black;
+    color:antiquewhite
+}
+#result{
+    height:45px;
+    width:200px;
+    border-radius: 50px;
+}
+input::placeholder {
+    font-weight: bold;
+    color:black
+}
+h1{
+    font-style: oblique;
+}
